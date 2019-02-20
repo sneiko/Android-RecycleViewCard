@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="RecycleViewCard">
+        <attr name="orientation" format="string" />
+    </declare-styleable>
+</resources>
