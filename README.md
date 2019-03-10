@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RecycleViewCard-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7539)
+
 **To get a Git project into your build:**
 
 Step 1. Add the JitPack repository to your build file
