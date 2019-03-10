@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/JastAir/Android-RecycleViewCard.svg)](https://jitpack.io/#JastAir/Android-RecycleViewCard)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RecycleViewCard-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/7539)
 
 **To get a Git project into your build:**
@@ -19,5 +20,4 @@ Step 2. Add the dependency
 	        implementation 'com.github.JastAir:Android-RecycleViewCard:{version}'
 	}
 	
-[![](https://jitpack.io/v/JastAir/Android-RecycleViewCard.svg)](https://jitpack.io/#JastAir/Android-RecycleViewCard)
 
